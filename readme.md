@@ -1,4 +1,4 @@
-Please install the requirements by typing the following command in the commandline
+Clone the repository and install the requirements by typing the following command in the commandline
 
 ``python -m pip install requirements.txt``
 
